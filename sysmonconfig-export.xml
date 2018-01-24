@@ -524,6 +524,8 @@
 			<TargetFilename condition="end with">.ps1</TargetFilename> <!--Powershell-->
 			<TargetFilename condition="end with">.ps2</TargetFilename> <!--Powershell-->
 			<TargetFilename condition="end with">.reg</TargetFilename> <!--Registry File-->
+			<TargetFilename condition="end with">.docm</TargetFilename>
+			<TargetFilename condition="end with">.sql</TargetFilename>
 			<TargetFilename condition="end with">.vb</TargetFilename> <!--VisualBasicScripting files-->
 			<TargetFilename condition="end with">.vbe</TargetFilename> <!--VisualBasicScripting files-->
 			<TargetFilename condition="end with">.vbs</TargetFilename> <!--VisualBasicScripting files-->
